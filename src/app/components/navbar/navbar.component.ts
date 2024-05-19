@@ -11,7 +11,7 @@ export class NavbarComponent {
 
   keys = Object.keys(menu);
 menu: any = menu;
-  constructor(private menuChange : MenuChangeService){
+  constructor(public menuChange : MenuChangeService){
 
   }
 

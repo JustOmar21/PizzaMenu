@@ -5,3 +5,6 @@
 .scrollable {
   overflow: auto;
 }
+* {
+  background-color: #e1181e;
+}

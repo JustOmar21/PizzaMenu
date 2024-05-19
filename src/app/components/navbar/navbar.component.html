@@ -1,13 +1,28 @@
-<div class="d-flex flex-column sticky-top p-1 flex-shrink-0 bg-body-tertiary navLength" bis_skin_checked="1">
-  <ul class="nav nav-pills flex-column mb-auto">
+<nav class="navbar sticky-top bg-body-tertiary fixed-top">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Categoria : {{menuChange.currentMenu.split("_")[0].charAt(0).toUpperCase()+menuChange.currentMenu.split("_")[0].slice(1)}} {{menuChange.currentMenu.split("_").length == 2 ? menuChange.currentMenu.split("_")[1].charAt(0).toUpperCase()+menuChange.currentMenu.split("_")[1].slice(1) : ""}}</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Categorie</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div class="offcanvas-body">
+        <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+          <ng-container *ngFor="let key of keys; index as i;">
+            <li class="nav-item " (click)="setMenuItem(key)">
+              <a  class="nav-link link-body-emphasis">
+                {{key.split("_")[0].charAt(0).toUpperCase()+key.split("_")[0].slice(1)}} {{key.split("_").length == 2 ? key.split("_")[1].charAt(0).toUpperCase()+key.split("_")[1].slice(1) : ""}}
+              </a>
+            </li>
+            <hr>
+          </ng-container>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
 
-    <ng-container *ngFor="let key of keys; index as i;">
-      <li class="nav-item" (click)="setMenuItem(key)">
-        <a  class="nav-link link-body-emphasis">
-          {{key.split("_")[0].charAt(0).toUpperCase()+key.split("_")[0].slice(1)}} {{key.split("_").length == 2 ? key.split("_")[1].charAt(0).toUpperCase()+key.split("_")[1].slice(1) : ""}}
-        </a>
-      </li>
-      <hr>
-    </ng-container>
-  </ul>
-</div>
+

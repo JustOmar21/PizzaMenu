@@ -3,7 +3,7 @@
     <div class="card body text-light d-flex w-50">
       <div class="card-body">
         <h1 class="card-title">{{item.name}}</h1>
-        <p class="card-text">{{item.ingredients.join(", ")}}</p>
+        <p *ngIf="item.ingredients != undefined" class="card-text">{{item.ingredients.join(", ")}}</p>
         <h2 class="text-end">{{item.price}}</h2>
       </div>
     </div>
