@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ElementRef, ViewChild } from '@angular/core';
 import { MenuChangeService } from 'src/app/service/menu-change.service';
 import menu from "src/assets/pizza.json";
 
@@ -15,10 +15,13 @@ menu: any = menu;
 
   }
 
+  @ViewChild("closeCategories") closeCat : ElementRef | undefined;
   setMenuItem(key:string)
   {
     this.menuChange.setMenu(key);
-    console.log(this.menuChange.currentMenu);
+    console.log(this.closeCat?.nativeElement);
+
+    this.closeCat?.nativeElement.click();
 
   }
 }
