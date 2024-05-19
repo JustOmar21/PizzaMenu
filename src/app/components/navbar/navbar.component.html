@@ -1,0 +1,13 @@
+<div class="d-flex flex-column sticky-top p-1 flex-shrink-0 bg-body-tertiary navLength" bis_skin_checked="1">
+  <ul class="nav nav-pills flex-column mb-auto">
+
+    <ng-container *ngFor="let key of keys; index as i;">
+      <li class="nav-item" (click)="setMenuItem(key)">
+        <a  class="nav-link link-body-emphasis">
+          {{key.split("_")[0].charAt(0).toUpperCase()+key.split("_")[0].slice(1)}} {{key.split("_").length == 2 ? key.split("_")[1].charAt(0).toUpperCase()+key.split("_")[1].slice(1) : ""}}
+        </a>
+      </li>
+      <hr>
+    </ng-container>
+  </ul>
+</div>

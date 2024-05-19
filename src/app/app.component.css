@@ -1,0 +1,7 @@
+.body {
+  background-color: #e1181e;
+}
+
+.scrollable {
+  overflow: auto;
+}

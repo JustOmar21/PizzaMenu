@@ -1,0 +1,9 @@
+li {
+  cursor: pointer;
+}
+
+.navLength {
+  width: 130px;
+  height: 743px;
+  overflow-x: hidden;
+}

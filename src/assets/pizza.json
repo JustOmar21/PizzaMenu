@@ -1,0 +1,1134 @@
+{
+   "pizze": [
+      {
+         "id": 1,
+         "name": "Tonno e Cipolla",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "tonno",
+            "cipolla"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 2,
+         "name": "Marinara",
+         "ingredients": [
+            "pomodoro",
+            "aglio",
+            "origano"
+         ],
+         "price": "5.00€"
+      },
+      {
+         "id": 3,
+         "name": "Siciliana",
+         "ingredients": [
+            "pomodoro",
+            "origano",
+            "capperi",
+            "acciughe"
+         ],
+         "price": "7.00€"
+      },
+      {
+         "id": 4,
+         "name": "Margherita",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella"
+         ],
+         "price": "6.00€"
+      },
+      {
+         "id": 5,
+         "name": "Napoli",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "acciughe",
+            "origano"
+         ],
+         "price": "7.00€"
+      },
+      {
+         "id": 6,
+         "name": "Romana",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "acciughe",
+            "capperi",
+            "olive",
+            "origano"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 7,
+         "name": "Prosciutto",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto"
+         ],
+         "price": "7.00€"
+      },
+      {
+         "id": 8,
+         "name": "Prosciutto e Funghi",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto",
+            "funghi"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 9,
+         "name": "Funghi",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "funghi"
+         ],
+         "price": "7.00€"
+      },
+      {
+         "id": 10,
+         "name": "Carciofi",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "carciofi"
+         ],
+         "price": "7.00€"
+      },
+      {
+         "id": 11,
+         "name": "4 Stagioni",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto",
+            "funghi",
+            "carciofi"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 12,
+         "name": "Capricciosa",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto",
+            "funghi",
+            "carciofi"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 13,
+         "name": "Salame Piccante",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "salame piccante"
+         ],
+         "price": "7.00€"
+      },
+      {
+         "id": 14,
+         "name": "Pugliese",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "cipolla"
+         ],
+         "price": "7.00€"
+      },
+      {
+         "id": 15,
+         "name": "Speck",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "speck"
+         ],
+         "price": "7.00€"
+      },
+      {
+         "id": 16,
+         "name": "Asparagi",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "asparagi"
+         ],
+         "price": "7.00€"
+      },
+      {
+         "id": 17,
+         "name": "Spinaci",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "spinaci"
+         ],
+         "price": "6.50€"
+      },
+      {
+         "id": 18,
+         "name": "Wurstel",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "wurstel"
+         ],
+         "price": "7.00€"
+      },
+      {
+         "id": 19,
+         "name": "Salsiccia",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "salsiccia"
+         ],
+         "price": "7.00€"
+      },
+      {
+         "id": 20,
+         "name": "Occhio di Bue",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto",
+            "uovo"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 21,
+         "name": "4 Formaggi",
+         "ingredients": [
+            "pomodoro",
+            "taleggio",
+            "gorgonzola",
+            "emmental",
+            "grana"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 22,
+         "name": "Gorgonzola",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "gorgonzola"
+         ],
+         "price": "7.00€"
+      },
+      {
+         "id": 23,
+         "name": "Tonno",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "tonno"
+         ],
+         "price": "7.00€"
+      },
+      {
+         "id": 24,
+         "name": "Verdure",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "verdure miste"
+         ],
+         "price": "7.00€"
+      },
+      {
+         "id": 25,
+         "name": "Brie e Salsiccia",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "brie",
+            "salsiccia"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 26,
+         "name": "Tedesca",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "patatine",
+            "ketchup"
+         ],
+         "price": "7.00€"
+      },
+      {
+         "id": 27,
+         "name": "Boscaiola",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "funghi",
+            "salsiccia"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 28,
+         "name": "Tramontana",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "funghi",
+            "asparagi",
+            "salsiccia"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 29,
+         "name": "Strana",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "patate",
+            "wurstel"
+         ],
+         "price": "7.50€"
+      }
+   ],
+   "pizze_speciali": [
+      {
+         "id": 30,
+         "name": "Pizza Stella",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "funghi porcini",
+            "salmone",
+            "gamberetti",
+            "asparagi"
+         ],
+         "price": "8.50€"
+      },
+      {
+         "id": 31,
+         "name": "Pizza Delicata",
+         "ingredients": [
+            "mozzarella",
+            "pomodoro fresco",
+            "rucola",
+            "gamberetti"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 32,
+         "name": "Frutti di Mare",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "frutti di mare fatti in casa"
+         ],
+         "price": "8.50€"
+      },
+      {
+         "id": 33,
+         "name": "Mare Chiaro",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "salmone",
+            "panna",
+            "gamberetti"
+         ],
+         "price": "8.50€"
+      },
+      {
+         "id": 34,
+         "name": "Porcini",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "funghi porcini"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 35,
+         "name": "Pancetta e Gorgonzola",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "pancetta",
+            "gorgonzola"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 36,
+         "name": "Scarpone",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "spinaci",
+            "salsiccia",
+            "brie"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 37,
+         "name": "Nevertiti",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "tonno",
+            "peperoni",
+            "asparagi"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 38,
+         "name": "Amun",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "melanzane",
+            "cipolla",
+            "gorgonzola"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 39,
+         "name": "Piramide",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "zucchine",
+            "acciughe",
+            "salame piccante"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 40,
+         "name": "Qfù",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "spinaci",
+            "gorgonzola",
+            "salame piccante"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 41,
+         "name": "Sorrentina",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "gamberetti",
+            "prezzemolo"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 42,
+         "name": "Calamari",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "calamari"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 43,
+         "name": "Mare e Monti",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "frutti di mare",
+            "funghi porcini"
+         ],
+         "price": "8.50€"
+      },
+      {
+         "id": 44,
+         "name": "Bufala",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "mozzarella di bufala"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 45,
+         "name": "Contadina",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "brie",
+            "salsiccia",
+            "zucchine"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 46,
+         "name": "Primavera",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella di bufala",
+            "olive",
+            "rucola",
+            "pomodorini"
+         ],
+         "price": "8.50€"
+      },
+      {
+         "id": 47,
+         "name": "Amatrice",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "cipolla",
+            "salame piccante",
+            "peperoni"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 48,
+         "name": "Arcobaleno",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "patate",
+            "peperoni",
+            "zucchine"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 49,
+         "name": "Valtellina",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "brie",
+            "bresaola",
+            "rucola",
+            "grana"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 50,
+         "name": "Favolosa",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "gorgonzola",
+            "tonno",
+            "cipolle"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 51,
+         "name": "Bacon",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "cipolla",
+            "funghi",
+            "salsiccia"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 52,
+         "name": "Mediterranea",
+         "ingredients": [
+            "pomodoro",
+            "acciughe",
+            "olive nere",
+            "tonno"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 53,
+         "name": "Zingara",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "carciofi",
+            "capperi",
+            "olive",
+            "salame piccante"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 54,
+         "name": "Bismark",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "asparagi",
+            "uovo",
+            "speck"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 55,
+         "name": "Sfiziosa",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "funghi porcini",
+            "salsiccia",
+            "panna"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 56,
+         "name": "Affumicata",
+         "ingredients": [
+            "pomodoro",
+            "scamorza",
+            "pomodoro fresco",
+            "rucola"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 57,
+         "name": "Caprese",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella di bufala",
+            "pomodoro fresco"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 58,
+         "name": "Campagnola",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "cipolla",
+            "tonno",
+            "spinaci"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 59,
+         "name": "Rustica",
+         "ingredients": [
+            "mozzarella",
+            "patate",
+            "salsiccia",
+            "salame piccante",
+            "zucchine"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 60,
+         "name": "Delizia",
+         "ingredients": [
+            "mozzarella",
+            "asparagi",
+            "salsiccia",
+            "gorgonzola",
+            "panna"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 61,
+         "name": "Saporita",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "4 formaggi",
+            "salame piccante",
+            "asparagi"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 62,
+         "name": "Notte in Bianco",
+         "ingredients": [
+            "mozzarella",
+            "salame",
+            "acciughe",
+            "capperi",
+            "cipolle",
+            "peperoni"
+         ],
+         "price": "8.50€"
+      },
+      {
+         "id": 63,
+         "name": "Pizza Diavola",
+         "ingredients": [
+            "peperoni",
+            "salame piccante",
+            "olive"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 64,
+         "name": "Mare Rosso",
+         "ingredients": [
+            "pomodoro",
+            "salmone",
+            "polpa di granchio"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 65,
+         "name": "Neve Rossa",
+         "ingredients": [
+            "mozzarella",
+            "bresaola",
+            "carciofi"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 66,
+         "name": "Gustosa",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "noci",
+            "gorgonzola"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 67,
+         "name": "Greca",
+         "ingredients": [
+            "mozzarella",
+            "patate",
+            "carciofi",
+            "acciughe",
+            "olive"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 68,
+         "name": "Chiaro di Luna",
+         "ingredients": [
+            "mozzarella",
+            "funghi porcini",
+            "scamorza",
+            "carciofi"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 69,
+         "name": "Braccio di Ferro",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "spinaci",
+            "ricotta"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 70,
+         "name": "Pizza Carbonara",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "pancetta",
+            "uova"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 71,
+         "name": "Genovese",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "salsiccia",
+            "pomodoro fresco",
+            "pesto"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 72,
+         "name": "Pizza 3 Colori",
+         "ingredients": [
+            "mozzarella",
+            "scamorza",
+            "pomodoro fresco",
+            "rucola"
+         ],
+         "price": "7.50€"
+      },
+      {
+         "id": 73,
+         "name": "Pizza Burrata",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "burrata",
+            "pomodoro fresco"
+         ],
+         "price": "8.00€"
+      },
+      {
+         "id": 74,
+         "name": "Gorgo Mela",
+         "ingredients": [
+            "mozzarella",
+            "gorgonzola",
+            "mela",
+            "grana"
+         ],
+         "price": "8.00€"
+      }
+   ],
+   "pizze_scrocchianti": [
+      {
+         "id": 75,
+         "name": "Margherita Media",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella"
+         ],
+         "price": "12.50€"
+      }
+   ],
+   "pizze_maxi": [
+      {
+         "id": 76,
+         "name": "Margherita Maxi",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella"
+         ],
+         "price": "14.00€"
+      },
+      {
+         "id": 77,
+         "name": "Mista 2 Gusti",
+         "ingredients": [],
+         "price": "19.00€"
+      },
+      {
+         "id": 78,
+         "name": "Mista 3 Gusti",
+         "ingredients": [],
+         "price": "20.00€"
+      }
+   ],
+   "pizze_medie": [
+      {
+         "id": 79,
+         "name": "Margherita Media",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella"
+         ],
+         "price": "12.50€"
+      },
+      {
+         "id": 80,
+         "name": "Mista 2 Gusti Media",
+         "ingredients": [],
+         "price": "16.00€"
+      }
+   ],
+   "pizze_metro": [
+      {
+         "id": 81,
+         "name": "Margherita al Metro",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella"
+         ],
+         "price": "14.00€"
+      },
+      {
+         "id": 82,
+         "name": "Mista 2 Gusti",
+         "ingredients": [],
+         "price": "19.00€"
+      },
+      {
+         "id": 83,
+         "name": "Mista 3 Gusti",
+         "ingredients": [],
+         "price": "20.00€"
+      }
+   ],
+   "calzoni": [
+      {
+         "id": 84,
+         "name": "Calzone",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto"
+         ],
+         "price": "6.00€"
+      },
+      {
+         "id": 85,
+         "name": "Calzone Farcito",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "prosciutto",
+            "funghi",
+            "carciofi"
+         ],
+         "price": "6.50€"
+      }
+   ],
+   "focacce": [
+      {
+         "id": 86,
+         "name": "Focaccia",
+         "ingredients": [
+            "olio d'oliva",
+            "origano"
+         ],
+         "price": "3.00€"
+      },
+      {
+         "id": 87,
+         "name": "Focaccia Fresca",
+         "ingredients": [
+            "mozzarella di bufala",
+            "pomodorini",
+            "insalata mista"
+         ],
+         "price": "6.50€"
+      }
+   ],
+   "panini": [
+      {
+         "id": 88,
+         "name": "Panino Pizza",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "origano"
+         ],
+         "price": "4.00€"
+      },
+      {
+         "id": 89,
+         "name": "Piadina Normale",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "origano"
+         ],
+         "price": "4.00€"
+      }
+   ],
+   "piadine": [
+      {
+         "id": 89,
+         "name": "Piadina Normale",
+         "ingredients": [
+            "pomodoro",
+            "mozzarella",
+            "origano"
+         ],
+         "price": "4.00€"
+      }
+   ],
+   "kebab": [
+      {
+         "id": 90,
+         "name": "Panino Kebab",
+         "ingredients": [
+            "insalata",
+            "pomodori freschi",
+            "carne",
+            "salsa"
+         ],
+         "price": "5.50€"
+      },
+      {
+         "id": 91,
+         "name": "Piadina Kebab",
+         "ingredients": [
+            "insalata",
+            "pomodori freschi",
+            "carne",
+            "salsa"
+         ],
+         "price": "6.00€"
+      },
+      {
+         "id": 92,
+         "name": "Piatto Kebab",
+         "ingredients": [
+            "insalata",
+            "pomodoro",
+            "cipolle",
+            "salsa dolce e piccante",
+            "carne kebab"
+         ],
+         "price": "6.50€"
+      }
+   ],
+   "piatti": [
+      {
+         "id": 93,
+         "name": "Piatto Cotoletta di Pollo con Patatine",
+         "ingredients": [],
+         "price": "5.50€"
+      },
+      {
+         "id": 94,
+         "name": "Piatto Cotoletta di Pollo",
+         "ingredients": [],
+         "price": "4.00€"
+      }
+   ],
+   "fritti": [
+      {
+         "id": 95,
+         "name": "Fritto Misto",
+         "ingredients": [],
+         "price": "18.00€"
+      },
+      {
+         "id": 96,
+         "name": "Calamari Fritti",
+         "ingredients": [],
+         "price": "15.00€"
+      },
+      {
+         "id": 97,
+         "name": "Arancino",
+         "ingredients": [],
+         "price": "4.00€"
+      },
+      {
+         "id": 98,
+         "name": "Crocchette di Patate",
+         "ingredients": [],
+         "price": "4.00€"
+      },
+      {
+         "id": 99,
+         "name": "Speedy Pollo",
+         "ingredients": [],
+         "price": "4.00€"
+      },
+      {
+         "id": 100,
+         "name": "Nuggets",
+         "ingredients": [],
+         "price": "4.00€"
+      },
+      {
+         "id": 101,
+         "name": "Mozzarella Impanata",
+         "ingredients": [],
+         "price": "4.00€"
+      },
+      {
+         "id": 102,
+         "name": "Chele di Granchio",
+         "ingredients": [],
+         "price": "4.50€"
+      },
+      {
+         "id": 103,
+         "name": "Patatine",
+         "ingredients": [],
+         "price": "4.00€"
+      }
+   ],
+   "dolci": [
+      {
+         "id": 104,
+         "name": "Pizza con Nutella",
+         "ingredients": [
+            "nutella",
+            "zucchero a velo"
+         ],
+         "price": "6.00€"
+      },
+      {
+         "id": 105,
+         "name": "Piadina con Nutella",
+         "ingredients": [
+            "nutella"
+         ],
+         "price": "4.50€"
+      }
+   ],
+   "bevande": [
+      {
+         "id": 106,
+         "name": "Acqua Naturale",
+         "size": "50cl",
+         "price": "1.00€"
+      },
+      {
+         "id": 107,
+         "name": "Acqua Frizzante",
+         "size": "50cl",
+         "price": "1.00€"
+      },
+      {
+         "id": 108,
+         "name": "Bibita in Lattina 33cl",
+         "size": "33cl",
+         "price": "1.50€"
+      },
+      {
+         "id": 109,
+         "name": "Coca Cola 1.5L",
+         "size": "1.5L",
+         "price": "3.00€"
+      }
+   ]
+}
