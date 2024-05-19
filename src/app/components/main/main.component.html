@@ -1,11 +1,11 @@
 <div class="d-flex flex-wrap">
   <ng-container *ngFor="let item of menu[MenuChange.getMenu()]">
-    <div class="card body text-light d-flex w-50">
+    <div class="card body text-light d-flex flex-grow-1 w-50 mb-2">
       <div class="card-body">
         <h1 class="card-title">{{item.name}}</h1>
         <p *ngIf="item.ingredients != undefined" class="card-text">{{item.ingredients.join(", ")}}</p>
-        <h2 class="text-end">{{item.price}}</h2>
       </div>
+      <h2 class="text-end me-2">{{item.price}}</h2>
     </div>
 </ng-container>
 </div>
